@@ -2,7 +2,11 @@
 
 ### Build, Deploy, and Evaluate Intelligent AI Agents using Mosaic AI and Agent Bricks on the Databricks Data Intelligence Platform
 
-The dbc file in this repo you can directly import in your databricks workspace.
+This repo contains 2 main files:
+
+1 - The [dbc file](https://github.com/lopesdiego12/ai-agents-on-databricks/blob/96e17d85599d2552d3838f39a70a0352da35f0dd/get-started-with-ai-agents-on-databricks-1.1.0.dbc) in this repo you can directly import in your databricks workspace.
+
+2 - The [Slide deck](https://github.com/lopesdiego12/ai-agents-on-databricks/blob/96e17d85599d2552d3838f39a70a0352da35f0dd/Slide%20Deck%20Ai%20Agents%20Databricks.pdf) which contains the whole Databricks AI Agents explanation
 
 ---
 
